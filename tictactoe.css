@@ -1,5 +1,10 @@
 button{
-    height: 30px;
-    width: 30px;
+    height: 70px;
+    width: 70px;
     background-color: rgb(235, 175, 225);
+    padding:20px;
+}
+
+#container{
+    margin: 20% 0 0 50%;
 }
